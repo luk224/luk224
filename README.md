@@ -81,7 +81,3 @@ I build reliable, animator-friendly rigs and scalable tools for **Maya**, **Moti
 - 🔗 **linkedin.com/in/andrewsupertramp**
 
 ---
-
-### Quick copy (for short bios)
-
-*Animation Technical Artist (Rigging) — Maya, MotionBuilder, UE5. Python/PySide tools, mGear & mocap workflows, strong 3D maths. ex-Build A Rocket Boy, MercurySteam. Based in Santander, Spain. → luking1995@gmail.com*
